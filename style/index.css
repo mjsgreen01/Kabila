@@ -84,9 +84,20 @@ a:active {color:inherit;}  /* selected link */
 .sec1{
 	background-color: black;
 	width: 100%;
-	height: 900px
+	height: 900px;
+	color: white;
 }
-
+.sec1Contain{
+	width: 950px;
+	margin: 0 auto;
+}
+.leftContain{
+	float: left;
+}
+.rightContain{
+	float: right;
+}
+.sec1
 
 
 
